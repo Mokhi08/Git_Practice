@@ -4,4 +4,6 @@ public class Hat {
 
     // second line
 
+    // third line
+
 }
